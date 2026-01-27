@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
   <diagram name="第 1 页" id="0Pn8H0vyn57ut0PdIQAO">
-    <mxGraphModel dx="961" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry height="450" width="236" x="370.34000000000003" y="90" as="geometry" />
         </mxCell>
         <mxCell id="xDOjQ8tfOgvH0LrCZRxb-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#bdd8d4, #ededed);strokeColor=light-dark(#3f605f, #ededed);strokeWidth=1.5;arcSize=5;" value="" vertex="1">
-          <mxGeometry height="450" width="300" x="640" y="90" as="geometry" />
+          <mxGeometry height="450" width="330" x="620" y="90" as="geometry" />
         </mxCell>
         <mxCell id="xDOjQ8tfOgvH0LrCZRxb-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#d8c7d8, #ededed);strokeColor=light-dark(#6a426f, #ededed);strokeWidth=1.5;arcSize=12;" value="" vertex="1">
           <mxGeometry height="450" width="130" x="960" y="90" as="geometry" />
@@ -65,10 +65,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-33" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.37997545447717584;arrowSize=0.38376128367888973;fillColor=light-dark(#6b87a7, #ededed);strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="20" width="40" x="606.34" y="280.21" as="geometry" />
+          <mxGeometry height="20" width="33.66" x="606.34" y="280.21" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-35" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.40305049954928335;arrowSize=0.44700779058994916;fillColor=light-dark(#6b87a7, #ededed);strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="20" width="30" x="356.34000000000003" y="279.21" as="geometry" />
+          <mxGeometry height="20" width="20" x="350" y="279.21" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=33;fillColor=light-dark(#acc3bf, #ededed);strokeColor=light-dark(#5e8589, #ededed);strokeWidth=1.5;textShadow=0;shadow=1;" value="Rew Audio Patches" vertex="1">
           <mxGeometry height="23" width="130" x="203.14000000000001" y="146" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry height="30" width="190" x="393.34000000000003" y="102" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="DASM Core Principle&lt;br&gt;(Iterations K)" vertex="1">
-          <mxGeometry height="20" width="230" x="690" y="108" as="geometry" />
+          <mxGeometry height="20" width="230" x="675" y="107" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="Iterative&lt;div&gt;Optimization&lt;/div&gt;&lt;div&gt;Loop&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="995" y="108" as="geometry" />
@@ -235,16 +235,16 @@
           <mxGeometry height="30" width="200" x="925" y="350" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#efbf83, #ededed);strokeColor=light-dark(#c19765, #ededed);strokeWidth=1.5;shadow=1;" value="" vertex="1">
-          <mxGeometry height="70" width="260" x="660" y="150" as="geometry" />
+          <mxGeometry height="70" width="270" x="650" y="150" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#d5c4d1, #ededed);strokeWidth=1.5;strokeColor=light-dark(#663f6f, #ededed);shadow=1;" value="" vertex="1">
-          <mxGeometry height="70" width="260" x="660" y="245.21" as="geometry" />
+          <mxGeometry height="70" width="270" x="650" y="240.5" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#9fbdb8, #ededed);strokeWidth=1.5;strokeColor=light-dark(#517c7b, #ededed);shadow=1;" value="" vertex="1">
           <mxGeometry height="70" width="260" x="660" y="430" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-121" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=4.45;dx=26.3;notch=0;arrowHead=26.19;rounded=1;fillOpacity=100;flipH=1;legacyAnchorPoints=0;fillColor=light-dark(#6d84a5, #ededed);strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="65" width="120" x="910" y="173" as="geometry" />
+          <mxGeometry height="65" width="110" x="920" y="173" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Preserve domain curvature,flatten task directions" vertex="1">
           <mxGeometry height="30" width="325" x="630" y="505" as="geometry" />
@@ -253,7 +253,13 @@
           <mxGeometry height="80" width="220" x="680" y="336" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-126" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Domain-Supervised Contrastive Learning" vertex="1">
-          <mxGeometry height="30" width="420" x="583.34" y="244.71" as="geometry" />
+          <mxGeometry height="30" width="420" x="574" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="a82GHQIPC0DY8gMr7_Yd-127" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=4.45;dx=26.3;notch=0;arrowHead=26.19;rounded=1;fillOpacity=100;flipH=0;legacyAnchorPoints=0;fillColor=light-dark(#6d84a5, #ededed);strokeColor=none;flipV=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="116.88" width="55" x="952.19" y="390.94" as="geometry" />
+        </mxCell>
+        <mxCell id="a82GHQIPC0DY8gMr7_Yd-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Hessian Minimization" vertex="1">
+          <mxGeometry height="30" width="200" x="692.5" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
