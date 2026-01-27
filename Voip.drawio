@@ -222,6 +222,12 @@
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#62568e, #ededed);strokeWidth=0.6;align=center;" value="" vertex="1">
           <mxGeometry height="10" width="52" x="278" y="342" as="geometry" />
         </mxCell>
+        <mxCell id="a82GHQIPC0DY8gMr7_Yd-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontStyle=1" value="Microscople/Imbalanced&lt;div&gt;Gape &amp;amp; Samall Distances&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="178.5" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="a82GHQIPC0DY8gMr7_Yd-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#e3e3de, #ededed);strokeColor=light-dark(#b5b2b5, #ededed);strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="104" width="160" x="220" y="388" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
