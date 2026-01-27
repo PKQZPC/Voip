@@ -235,13 +235,13 @@
           <mxGeometry height="30" width="200" x="925" y="350" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#efbf83, #ededed);strokeColor=light-dark(#c19765, #ededed);strokeWidth=1.5;shadow=1;" value="" vertex="1">
-          <mxGeometry height="70" width="230" x="677.5" y="150" as="geometry" />
+          <mxGeometry height="70" width="260" x="660" y="150" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#d5c4d1, #ededed);strokeWidth=1.5;strokeColor=light-dark(#663f6f, #ededed);shadow=1;" value="" vertex="1">
-          <mxGeometry height="70" width="230" x="677.5" y="245.21" as="geometry" />
+          <mxGeometry height="70" width="260" x="660" y="245.21" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#9fbdb8, #ededed);strokeWidth=1.5;strokeColor=light-dark(#517c7b, #ededed);shadow=1;" value="" vertex="1">
-          <mxGeometry height="70" width="230" x="677.5" y="430" as="geometry" />
+          <mxGeometry height="70" width="260" x="660" y="430" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-121" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=4.45;dx=26.3;notch=0;arrowHead=26.19;rounded=1;fillOpacity=100;flipH=1;legacyAnchorPoints=0;fillColor=light-dark(#6d84a5, #ededed);strokeColor=none;" value="" vertex="1">
           <mxGeometry height="65" width="120" x="910" y="173" as="geometry" />
@@ -250,7 +250,10 @@
           <mxGeometry height="30" width="325" x="630" y="505" as="geometry" />
         </mxCell>
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-124" parent="1" style="rhombus;whiteSpace=wrap;html=1;shadow=1;" value="" vertex="1">
-          <mxGeometry height="80" width="220" x="680" y="337" as="geometry" />
+          <mxGeometry height="80" width="220" x="680" y="336" as="geometry" />
+        </mxCell>
+        <mxCell id="a82GHQIPC0DY8gMr7_Yd-126" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Domain-Supervised Contrastive Learning" vertex="1">
+          <mxGeometry height="30" width="420" x="583.34" y="244.71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
