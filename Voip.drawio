@@ -261,6 +261,9 @@
         <mxCell id="a82GHQIPC0DY8gMr7_Yd-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Hessian Minimization" vertex="1">
           <mxGeometry height="30" width="200" x="692.5" y="430" as="geometry" />
         </mxCell>
+        <mxCell id="a82GHQIPC0DY8gMr7_Yd-129" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Domain-Aware Sharpness Minimization" vertex="1">
+          <mxGeometry height="30" width="360" x="609.5" y="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
