@@ -273,9 +273,6 @@
         <mxCell id="3svM5FgTYNZXd79I2xnk-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;" value="Adaptive Domain Gap Modulation" vertex="1">
           <mxGeometry height="30" width="420" x="575" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="3svM5FgTYNZXd79I2xnk-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="24.79" width="24.79" x="667.71" y="259.61" as="geometry" />
-        </mxCell>
         <mxCell id="3svM5FgTYNZXd79I2xnk-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;i&gt;L&lt;sub&gt;DSCL&lt;/sub&gt;&lt;/i&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="860" y="254.4" as="geometry" />
         </mxCell>
